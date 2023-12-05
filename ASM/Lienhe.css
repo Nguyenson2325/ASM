@@ -1,0 +1,281 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.banner {
+    height: 600x;
+    overflow: hidden;
+}
+
+.banner img {
+    height: 350px;
+    object-fit: cover;
+}
+
+header {
+    background-color: #003C71;
+}
+
+.header-inner {
+    align-items: center;
+}
+
+.search {
+    margin-inline: 50px;
+}
+
+.col-6 {
+    border-radius: 4px;
+}
+
+.fa-solid {
+    color: #e19730;
+    border-radius: 4px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.banner {
+    height: 600x;
+    overflow: hidden;
+}
+
+.banner img {
+    height: 350px;
+    object-fit: cover;
+}
+
+header {
+    background-color: #003C71;
+}
+
+.header-inner {
+    align-items: center;
+}
+
+.search {
+    margin-inline: 50px;
+}
+
+.search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+.fa-magnifying-glass {
+    color: #e19730;
+
+}
+
+.icon-tell {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.icon-tell i {
+    font-size: 20px;
+}
+
+.lienhe {
+    display: flex;
+    align-items: center;
+}
+
+.info p {
+    margin: 0;
+}
+
+.info p:first-child {
+    font-size: medium;
+}
+
+
+.tarbar a {
+
+    color: white;
+    text-decoration: none;
+}
+
+.tarbar {
+    display: flex;
+    justify-content: center;
+    gap: 30px
+}
+
+h2 {
+    text-align: center;
+    color: rgb(204, 204, 10);
+    margin: 30px;
+}
+
+
+.icon-tell {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.icon-tell i {
+    font-size: 20px;
+}
+
+.lienhe {
+    display: flex;
+    align-items: center;
+}
+
+.info p {
+    margin: 0;
+}
+
+.info p:first-child {
+    font-size: medium;
+}
+
+
+.tarbar a {
+
+    color: white;
+    text-decoration: none;
+}
+
+.tarbar {
+    display: flex;
+    justify-content: center;
+    gap: 30px
+}
+
+h2 {
+    text-align: center;
+    color: rgb(204, 204, 10);
+    margin: 30px;
+}
+
+/* xong herader , banner */
+
+.all {
+    background-color: #003C71;
+    margin: 0 200px;
+    margin-top: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.tieude {
+
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container1 {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+textarea {
+    height: 150px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: rgb(123, 123, 119);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+
+.footer {
+    background-color: rgb(13, 41, 58);
+    padding: 40px 0;
+    color: white;
+}
+
+.footer h3 {
+    color: white;
+}
+
+.footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.icon {
+    display: flex;
+    gap: 12px;
+
+}
+
+.icon img {
+    width: 40px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.naav-2 {
+    display: flex;
+    gap: 20px;
+    padding: 0 200px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
+}
+
+.t {
+    height: 45px;
+    width: 70px;
+    background-color: #eac18b;
+}
